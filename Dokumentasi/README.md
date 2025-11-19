@@ -3,11 +3,9 @@
 Metodologi ini terdiri dari beberapa tahapan utama:
 
 1. pengumpulan data, 2) preprocessing, 3) ekstraksi fitur,
-2. pelatihan model, 5) evaluasi, dan 6) implementasi/prediksi.
+2. pelatihan model, 5) evaluasi, dan 6) implementasi/prediksi.  
 
----
-
-## **1. Pengumpulan & Pemahaman Dataset**
+## 1. Pengumpulan & Pemahaman Dataset
 
 Dataset biasanya berupa email dengan label:
 
