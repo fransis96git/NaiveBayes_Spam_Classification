@@ -51,11 +51,11 @@ Tujuan preprocessing adalah membuat teks lebih bersih dan konsisten sehingga Nai
 
 ---
 
-## **3. Ekstraksi Fitur**
+## 3. Ekstraksi Fitur
 
 Teks perlu diubah menjadi angka. Dua metode paling populer:
 
-### **A. Bag of Words (CountVectorizer)**
+### A. Bag of Words (CountVectorizer)
 
 Menghitung frekuensi kata dalam email.
 
